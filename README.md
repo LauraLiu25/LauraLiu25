@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20Skills-6E56CF?style=flat" />
-  <img src="https://img.shields.io/badge/Agent%20Workflow-0EA5E9?style=flat" />
   <img src="https://img.shields.io/badge/Career%20Prep-F97316?style=flat" />
   <img src="https://img.shields.io/badge/Academic%20Writing-22C55E?style=flat" />
   <img src="https://img.shields.io/badge/Creative%20Thinking-EC4899?style=flat" />
