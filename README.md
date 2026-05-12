@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Laura</h1>
 
-<!--
-**LauraLiu25/LauraLiu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>A master's student with too many ideas, a soft spot for AI, and a habit of turning messy thoughts into reusable workflows.</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Skills-6E56CF?style=flat" />
+  <img src="https://img.shields.io/badge/Agent%20Workflow-0EA5E9?style=flat" />
+  <img src="https://img.shields.io/badge/Career%20Prep-F97316?style=flat" />
+  <img src="https://img.shields.io/badge/Academic%20Writing-22C55E?style=flat" />
+  <img src="https://img.shields.io/badge/Creative%20Thinking-EC4899?style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- 🎓 I am a master's student who enjoys exploring strange, useful, and slightly over-ambitious ideas.
+- 🤖 I am interested in AI, especially how agents can help people think, write, learn, and work more smoothly.
+- 🧩 I like turning repeatable tasks into structured **Skills**, prompts, and workflows.
+- 🌱 Currently exploring AI-assisted career preparation, academic writing, productivity systems, and human-centered automation.
+- ✨ I believe good tools should feel less like cold machines and more like quiet companions for thinking.
+
+## What I Share Here
+
+- **AI Skills** for reusable agent workflows  
+- **Career preparation tools** for resumes, JD matching, and interview practice  
+- **Academic writing workflows** for translation, polishing, logic checking, and research expression  
+- **Prompt experiments** that make AI outputs more structured, reliable, and human  
+
+## Current Focus
+
+I am building small but practical AI workflows that help transform scattered thoughts into clear outputs:  
+from a job description to interview materials,  
+from rough notes to academic paragraphs,  
+from repeated manual work to reusable agent skills.
+
+---
+
+<p align="center">
+  <em>Always learning. Always building. Occasionally having ideas faster than I can organize them.</em>
+</p>
