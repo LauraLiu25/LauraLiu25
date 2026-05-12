@@ -29,12 +29,6 @@
 - **Academic writing workflows** for translation, polishing, logic checking, and research expression  
 - **Prompt experiments** that make AI outputs more structured, reliable, and human  
 
-## Current Focus
-
-I am building small but practical AI workflows that help transform scattered thoughts into clear outputs:  
-from a job description to interview materials,  
-from rough notes to academic paragraphs,  
-from repeated manual work to reusable agent skills.
 
 ---
 
