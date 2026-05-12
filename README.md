@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 
 <p align="center">
-  <em>A master's student with too many ideas, a soft spot for AI, and a habit of turning messy thoughts into reusable workflows.</em>
+  <em>A master's student with a soft spot for AI, and a habit of turning messy thoughts into reusable workflows.</em>
 </p>
 
 <p align="center">
